@@ -1,15 +1,15 @@
 //
-//  BusinessLogicLayerTests.swift
-//  BusinessLogicLayerTests
+//  NZW_16Tests.swift
+//  NZW-16Tests
 //
 //  Created by syj12 on 8/4/16.
 //  Copyright © 2016 syj12. All rights reserved.
 //
 
 import XCTest
-@testable import BusinessLogicLayer
+@testable import NZW_16
 
-class BusinessLogicLayerTests: XCTestCase {
+class NZW_16Tests: XCTestCase {
     
     override func setUp() {
         super.setUp()

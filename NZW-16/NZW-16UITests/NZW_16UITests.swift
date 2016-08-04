@@ -1,6 +1,6 @@
 //
-//  PresentationLayerUITests.swift
-//  PresentationLayerUITests
+//  NZW_16UITests.swift
+//  NZW-16UITests
 //
 //  Created by syj12 on 8/4/16.
 //  Copyright © 2016 syj12. All rights reserved.
@@ -8,7 +8,7 @@
 
 import XCTest
 
-class PresentationLayerUITests: XCTestCase {
+class NZW_16UITests: XCTestCase {
         
     override func setUp() {
         super.setUp()
